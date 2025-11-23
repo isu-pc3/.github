@@ -31,12 +31,12 @@ Our projects will span multiple areas of mathematics and physics, currently incl
 - LaTeX formatting conversion
 
 
- 🛠️ Repository Structure 🛠️
+ ## 🛠️ Repository Structure 🛠️
 
  *Add Later*
 
 
- 📬 Contact 📬
+ ## 📬 Contact 📬
 
  For any questions or interest in joining:
  **lwise@iastate.edu**
