@@ -1,6 +1,7 @@
 # ISU Physics Coding & Computation Collective (#PC3)
 
 *An initiative dedicated to building strong computational skills among physics undergrads at Iowa State University.* 
+
 (NOTE: We are **not** an organization under the school, we are an independent group)
 
 
